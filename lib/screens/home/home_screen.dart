@@ -15,6 +15,8 @@ class HomeScreen extends StatelessWidget {
     );
   }
 
+// This Method for creating AppBar
+
   AppBar buildAppBar() {
     return AppBar(
       elevation: 0,
